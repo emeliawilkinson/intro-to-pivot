@@ -51,4 +51,4 @@ __Sheet:__ an individual tab within a workbook
 __Tables:__ an organized way to view data in columns and rows. Each column and row correlates to a specific value or attribute
 __Workbook:__ an entire Excel file
 
-Proceed to Part I: Create the table to begin.
+Proceed to [Part I: Create the table](create-table.md) to begin.
